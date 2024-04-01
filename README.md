@@ -39,7 +39,7 @@
 - Process of identifying the most influential nodes in a network to maximize the spread of information or behavior.
 
 ## Recommendation System
-![Image Description](![Image Description](https://drive.google.com/uc?id=1N9Al6Jq8z2jHpGNRf6T9mznnVKF9Xlal)
+![Image Description](![Image Description](https://drive.google.com/file/d/1SK-BJ_WN_kvdAkH6GvTImYihkI_NUO7X/view?usp=sharing)
 
 - Quantify node importance using centrality metrics:
   1. Degree Centrality
